@@ -79,7 +79,7 @@ body {
 
 
 .fotoprincipal {
-    width: 25rem;
+    width: 50%;
     border-radius: 10%;
 }
 
@@ -172,5 +172,9 @@ body {
     
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .fotoprincipal {
+        width: 17rem;
     }
 }
